@@ -4,7 +4,7 @@ import '../css/Footer.css';
 function Footer() {
     return (
         <div>
-            <marquee className="sample-footer">I am Footer</marquee>
+            <div className="sample-footer">I am Footer</div>
         </div>
     );
 };
